@@ -1,6 +1,6 @@
 # ShortMind AI
 
-**AI 视频切片与内容再利用，让一条长视频释放更多价值。**
+**ShortMind AI 自动识别高潜力片段，把爆点前置到开头，生成网感标题与字幕，批量产出爆款短视频，并一键分发到 TikTok、YouTube 等社媒平台。**
 
 [English](README.en.md) · [官方网站](https://shortmind.ai/?source=shortmindai.github.io) · [品牌主页](https://shortmindai.github.io/) · [GitHub 仓库](https://github.com/ShortMindAI/shortmindai.github.io)
 
@@ -11,6 +11,17 @@
 ShortMind AI 是面向创作者、企业和营销团队的 AI 视频切片与内容再利用平台。它从长视频中发现有传播价值的片段，辅助生成短视频，并将字幕、画面重构、发布文案及社媒分发连接成一个工作流。
 
 「100+ 条潜力短视频」表达产品的内容再利用方向；实际可用片段数量取决于原视频时长、内容与设置，评分不保证播放量或爆款结果。
+
+## SEO 使用场景与教程
+
+ShortMind 覆盖 AI 视频切片、长视频转短视频和内容再利用等实际需求。你可以查看 [播客切片](zh/podcast-clips/)、[YouTube 转 Shorts](zh/youtube-to-shorts/)、[直播高光](zh/stream-highlights/) 和 [Stream Clips](zh/stream-clips/) 页面。
+
+- [AI 视频切片工具](zh/ai-clip-maker/)：适合播客、访谈和 Webinar
+- [长视频转短视频](zh/long-video-to-shorts/)：从完整录制生成短视频
+- [AI 视频切片工作流](zh/ai-video-clipping/)：字幕、开场钩子和画面重构
+- [短视频教程与案例](zh/resources/)：按业务场景学习内容再利用
+
+当前内容中心包含 20 篇围绕 AI 视频切片、长视频转短视频、播客切片、YouTube 转 Shorts、直播高光和 Stream Clips 的中文教程与场景案例。
 
 ## 核心能力
 

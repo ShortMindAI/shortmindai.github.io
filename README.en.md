@@ -1,6 +1,6 @@
 # ShortMind AI
 
-**AI video clipping and content repurposing. Make more of every long video.**
+**ShortMind AI automatically identifies high-potential moments, moves the hook to the opening, generates scroll-stopping titles and captions, produces viral-potential short videos in batches, and publishes them to TikTok, YouTube and other social platforms.**
 
 [中文](README.md) · [Official website](https://shortmind.ai/?source=shortmindai.github.io) · [Brand homepage](https://shortmindai.github.io/) · [GitHub repository](https://github.com/ShortMindAI/shortmindai.github.io)
 
@@ -11,6 +11,17 @@
 ShortMind AI is an AI video clipping and content repurposing platform for creators, businesses and marketing teams. It finds shareable moments in long-form videos and connects clip creation, captions, reframing, publishing copy and social distribution in one workflow.
 
 “100+ viral-ready shorts” describes the product’s content repurposing ambition. Useful clip counts depend on the source video’s length, content and settings. Predicted scores do not guarantee views or virality.
+
+## SEO workflows and use cases
+
+ShortMind helps creators search for a practical **AI clip maker**, **long video to Shorts** workflow and reliable **AI video clipping** process. Explore the guides for [podcast clips](podcast-clips/), [YouTube to Shorts](youtube-to-shorts/), [stream highlights](stream-highlights/) and [stream clips](stream-clips/).
+
+- [AI clip maker](ai-clip-maker/) for podcasts, interviews and webinars
+- [Long video to Shorts](long-video-to-shorts/) for repurposing a full recording
+- [AI video clipping](ai-video-clipping/) for captions, hooks and reframing
+- [Short-form video resources](resources/) with tutorials and workflow examples
+
+The resource center currently contains 20 keyword-focused tutorials and case studies across AI clip maker, long video to Shorts, AI video clipping, podcast clips, YouTube to Shorts, stream highlights and stream clips.
 
 ## Core capabilities
 
