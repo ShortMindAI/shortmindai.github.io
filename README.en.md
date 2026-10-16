@@ -1,96 +1,91 @@
-# ShortMind AI
+# ShortMind AI — AI Clip Maker and Long Video to Shorts
 
-**ShortMind AI automatically identifies high-potential moments, moves the hook to the opening, generates scroll-stopping titles and captions, produces viral-potential short videos in batches, and publishes them to TikTok, YouTube and other social platforms.**
+ShortMind AI helps creators and teams turn long-form recordings into short videos for YouTube Shorts, TikTok, Instagram Reels and other social platforms. It combines AI video clipping, highlight detection, captions, hooks, AI reframing, publishing copy and social distribution in one workflow.
 
-[中文](README.md) · [Official website](https://shortmind.ai/?source=shortmindai.github.io) · [Brand homepage](https://shortmindai.github.io/) · [GitHub repository](https://github.com/ShortMindAI/shortmindai.github.io)
+[Try ShortMind AI](https://shortmind.ai/?source=shortmindai.github.io) · [中文说明](README.md) · [Brand homepage](https://shortmindai.github.io/) · [SEO tutorials and case studies](resources/)
 
-![ShortMind workflow turning long videos into scored short clips for social publishing](assets/hero-en-1120.webp)
+![ShortMind AI turns a long video into scored vertical clips for social publishing](assets/hero-en-1120.webp)
 
-## About ShortMind
+## What is ShortMind AI?
 
-ShortMind AI is an AI video clipping and content repurposing platform for creators, businesses and marketing teams. It finds shareable moments in long-form videos and connects clip creation, captions, reframing, publishing copy and social distribution in one workflow.
+ShortMind is an **AI clip maker** for people who already have useful long-form video but need more short-form content. Upload a podcast, interview, webinar, course, YouTube video or livestream replay. ShortMind identifies high-potential moments, moves the hook closer to the opening, generates captions and publishing copy, reframes the subject for vertical video, and prepares clips for social distribution.
 
-“100+ viral-ready shorts” describes the product’s content repurposing ambition. Useful clip counts depend on the source video’s length, content and settings. Predicted scores do not guarantee views or virality.
+The product is designed for a practical **long video to Shorts** workflow: one recording becomes a reviewable batch of short videos, each with a clear topic, hook and publishing purpose. Predicted scores help compare candidates; they do not guarantee views or virality.
 
-## SEO workflows and use cases
+## Core SEO workflows and use cases
 
-ShortMind helps creators search for a practical **AI clip maker**, **long video to Shorts** workflow and reliable **AI video clipping** process. Explore the guides for [podcast clips](podcast-clips/), [YouTube to Shorts](youtube-to-shorts/), [stream highlights](stream-highlights/) and [stream clips](stream-clips/).
+| Search intent | What ShortMind helps you do | Best for |
+| --- | --- | --- |
+| **AI clip maker** | Find strong moments, create hooks, add captions and export social-ready clips. | Creators, editors, agencies and marketing teams |
+| **Long video to Shorts** | Repurpose a complete recording into multiple focused vertical videos. | YouTubers, educators, webinar teams and media libraries |
+| **AI video clipping** | Detect key dialogue, emotional beats and useful takeaways without scrubbing every minute. | Content teams with recurring long-form production |
+| **Podcast clips** | Extract quotes, opinions and practical answers while keeping hosts and guests visible. | Podcasters and interview shows |
+| **YouTube to Shorts** | Turn tutorials, interviews and video essays into Shorts with captions and platform-ready copy. | YouTube channels and education creators |
+| **Stream highlights** | Recover gameplay, reactions, wins, fails and turning points from livestream replays. | Streamers, gaming teams and live-event creators |
+| **Stream clips** | Build a repeatable batch workflow for clips after every broadcast. | Twitch creators and community teams |
+| **E-commerce livestream clips** | Turn product demonstrations, buying questions and offers into conversion-focused short videos. | E-commerce sellers and live commerce teams |
+| **Paid course clips** | Create useful previews from lessons and guide viewers to the complete course. | Knowledge creators and paid education businesses |
 
-- [AI clip maker](ai-clip-maker/) for podcasts, interviews and webinars
-- [Long video to Shorts](long-video-to-shorts/) for repurposing a full recording
-- [AI video clipping](ai-video-clipping/) for captions, hooks and reframing
-- [Short-form video resources](resources/) with tutorials and workflow examples
+Explore the detailed [AI clip maker](ai-clip-maker/), [long video to Shorts](long-video-to-shorts/), [AI video clipping](ai-video-clipping/), [podcast clips](podcast-clips/), [YouTube to Shorts](youtube-to-shorts/), [stream highlights](stream-highlights/) and [stream clips](stream-clips/) pages.
 
-The resource center currently contains 20 keyword-focused tutorials and case studies across AI clip maker, long video to Shorts, AI video clipping, podcast clips, YouTube to Shorts, stream highlights and stream clips.
+## How the AI video clipping workflow works
 
-## Core capabilities
+1. **Import your long video.** Start with a podcast, interview, course, webinar, product livestream, YouTube recording or stream replay.
+2. **Review high-potential moments.** AI suggestions help you compare complete ideas, strong opinions, useful answers, reactions and turning points.
+3. **Move the hook forward.** Put the result, surprising statement or viewer question near the opening so the clip makes sense in a social feed.
+4. **Create captions and reframe the video.** Generate dynamic subtitles and adapt the subject to 9:16, 1:1 or 4:5 formats.
+5. **Prepare publishing copy.** Create titles, descriptions and hashtags that match the actual promise of each clip.
+6. **Publish a batch.** Review several clips from one source and prepare a schedule for YouTube Shorts, TikTok, Instagram Reels, LinkedIn, Facebook or X.
 
-| Capability | Purpose |
-| --- | --- |
-| AI highlight detection | Discover candidate clips through dialogue, key ideas and emotional cues. |
-| Viral Score | Compare clips using a 0–100 estimate of hook strength, pacing and sharing potential. |
-| Automatic hook placement | Bring engaging moments to the opening of a short video. |
-| AI captions | Generate dynamic, multilingual subtitles and choose caption styles. |
-| AI Reframe | Track faces and subjects for 9:16, 1:1 and 4:5 social formats. |
-| B-roll and publishing copy | Add relevant footage and generate titles, descriptions and hashtags. |
-| Social publishing | Connect editing with TikTok, YouTube Shorts, Instagram Reels, LinkedIn, Facebook and X publishing workflows. |
+## Features
 
-Built for podcasts, interviews, courses, livestreams, sports content, marketing teams, media agencies and creator networks, especially teams with a long-form video library. Visit the [official website](https://shortmind.ai/?source=shortmindai.github.io) for current features, supported platforms and plans.
+- **AI highlight detection:** Find moments through dialogue, key ideas and emotional cues.
+- **Viral Score:** Compare candidate clips using an estimate of hook strength, pacing and sharing potential.
+- **Hook placement:** Bring the most engaging part of a clip closer to the beginning.
+- **Dynamic multilingual captions:** Make short videos easier to follow with or without sound.
+- **AI reframe:** Keep faces, speakers, products or gameplay visible in vertical layouts.
+- **B-roll and publishing copy:** Add supporting visuals and generate titles, descriptions and hashtags.
+- **Social publishing:** Connect clip preparation with publishing workflows across major social platforms.
 
-## How it works
+## Practical content guides
 
-1. Import your long video on the official website.
-2. Review AI-suggested clips and scores; refine captions, hooks and framing.
-3. Create short videos and prepare publishing copy and schedules.
+The [ShortMind resource center](resources/) contains 20 keyword-focused tutorials and case studies covering podcasts, webinars, interviews, YouTube, online courses, e-commerce livestreams, marketing teams, gaming streams, Twitch creators and community content.
 
-## This repository
+## Who uses ShortMind?
 
-This repository maintains ShortMind’s static brand introduction website, English and Chinese pages, and documentation. The video processing product is available through the official website.
+ShortMind is built for podcasters, YouTubers, Twitch streamers, course creators, webinar producers, e-commerce teams, marketing departments, media agencies and creator networks. It is especially useful when a team publishes long-form video regularly and wants a repeatable way to create short-form content without manually reviewing the same recording several times.
+
+## Repository structure
 
 ```text
-index.html            English homepage
-zh.html               Chinese page
-404.html              Custom error page
-assets/               Shared CSS, WebP images, icons and social preview
-README.md             Chinese documentation
-README.en.md          English documentation
-robots.txt            Crawler rules and sitemap reference
-sitemap.xml           English and Chinese page index
-scripts/build_site.py Page generation and image optimization
+index.html                         English brand homepage
+zh.html                            Chinese brand homepage
+resources/                         English tutorials and case studies
+zh/resources/                      Chinese tutorials and case studies
+assets/                            Shared CSS, images and social preview assets
+scripts/build_site.py              Bilingual homepage generator
+scripts/build_article_library.py   SEO article and resource generator
+sitemap.xml                        Search engine URL index
+robots.txt                         Crawler rules
+README.md                          Chinese SEO documentation
+README.en.md                       English SEO documentation
 ```
 
-## Preview and maintenance
-
-No Node.js, framework build or client-side JavaScript is required. Start a local server and open `http://localhost:8000`:
+## Local preview and regeneration
 
 ```bash
 python -m http.server 8000
 ```
 
-Edit the bilingual content in `scripts/build_site.py` and regenerate the pages. The script requires Python 3.9+ and Pillow (`python -m pip install Pillow`):
+Open `http://localhost:8000/`. Regenerate the bilingual SEO article library and sitemap with:
 
 ```bash
-python scripts/build_site.py --pages-only
+python scripts/build_article_library.py
+python scripts/repair_rich_zh_articles.py
 ```
 
-To re-optimize the original PNG files, supply the material directory containing the logo and the `shortmind宣传物料-中英文` subdirectory:
+The static site uses UTF-8 HTML, canonical URLs, reciprocal `hreflang` links, Open Graph metadata, Article schema and a sitemap so search engines can discover the English and Chinese content paths.
 
-```bash
-python scripts/build_site.py --materials "path/to/brand-materials"
-```
+## Official product
 
-## GitHub Pages deployment
-
-The account homepage `https://shortmindai.github.io/` requires a repository named `shortmindai.github.io`. Place the files in its root and choose **Settings → Pages → Deploy from a branch → main → / (root)**. Save and wait for deployment. `.nojekyll` enables direct static publishing.
-
-The current Git remote points to `ShortMindAI/shortmindai.github.io`, matching the account homepage URL. For another deployment URL, update `BASE` in the script, `robots.txt`, `sitemap.xml` and the root-relative links in `404.html` to match the live site.
-
-## SEO and performance
-
-- Semantic, directly rendered HTML with headings, navigation and FAQs.
-- Distinct titles, descriptions and canonicals with reciprocal language alternates.
-- Organization, WebPage and FAQPage JSON-LD, plus Open Graph and Twitter previews. Structured data does not guarantee a particular search appearance.
-- Compressed WebP assets, responsive `srcset`, high-priority hero images and lazy-loaded screenshots with explicit dimensions.
-- A JPEG social card for preview compatibility; system fonts and no third-party scripts or frontend runtime.
-
-ShortMind — give your best content a second life.
+This repository contains the static brand site and SEO documentation. For current product access, supported platforms and account features, visit [shortmind.ai](https://shortmind.ai/?source=shortmindai.github.io).

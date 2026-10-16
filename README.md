@@ -1,96 +1,93 @@
-# ShortMind AI
+# ShortMind AI — AI 视频切片与长视频转短视频
 
-**ShortMind AI 自动识别高潜力片段，把爆点前置到开头，生成网感标题与字幕，批量产出爆款短视频，并一键分发到 TikTok、YouTube 等社媒平台。**
+ShortMind AI 帮助创作者和内容团队把长视频转换成适合 YouTube Shorts、TikTok、Instagram Reels 等平台发布的短视频。产品将 AI 视频切片、精彩片段识别、字幕、开场钩子、智能重构画面、发布文案和社媒分发连接在同一套工作流中。
 
-[English](README.en.md) · [官方网站](https://shortmind.ai/?source=shortmindai.github.io) · [品牌主页](https://shortmindai.github.io/) · [GitHub 仓库](https://github.com/ShortMindAI/shortmindai.github.io)
+[体验 ShortMind AI](https://shortmind.ai/?source=shortmindai.github.io) · [English README](README.en.md) · [品牌首页](https://shortmindai.github.io/) · [中文教程与案例](zh/resources/)
 
-![ShortMind 将长视频转换为短视频并进行社媒分发的工作流](assets/hero-zh-1120.webp)
+![ShortMind AI 将长视频转换为带评分的竖屏短视频](assets/hero-zh-1120.webp)
 
-## 关于 ShortMind
+## ShortMind AI 是什么？
 
-ShortMind AI 是面向创作者、企业和营销团队的 AI 视频切片与内容再利用平台。它从长视频中发现有传播价值的片段，辅助生成短视频，并将字幕、画面重构、发布文案及社媒分发连接成一个工作流。
+ShortMind 是面向创作者、企业和营销团队的 **AI 视频切片工具**。如果你已经有播客、访谈、课程、Webinar、YouTube 视频或直播回放，但没有足够时间持续制作短视频，ShortMind 可以从长视频中识别高潜力片段，把爆点前置到开头，生成字幕和网感发布文案，并将人物、商品或游戏画面适配为竖屏内容。
 
-「100+ 条潜力短视频」表达产品的内容再利用方向；实际可用片段数量取决于原视频时长、内容与设置，评分不保证播放量或爆款结果。
+它解决的是实际的 **长视频转短视频** 问题：一条完整录制被拆成一组主题清晰、可以审核和排期的短视频。Viral Score 用于辅助比较片段的钩子、节奏和传播潜力，不保证播放量或爆款结果。
 
-## SEO 使用场景与教程
+## 核心关键词与使用场景
 
-ShortMind 覆盖 AI 视频切片、长视频转短视频和内容再利用等实际需求。你可以查看 [播客切片](zh/podcast-clips/)、[YouTube 转 Shorts](zh/youtube-to-shorts/)、[直播高光](zh/stream-highlights/) 和 [Stream Clips](zh/stream-clips/) 页面。
+| 用户搜索意图 | ShortMind 解决的问题 | 适合人群 |
+| --- | --- | --- |
+| **AI 视频切片工具** | 从长录制中提取高光、生成钩子、字幕和社媒短片。 | 创作者、剪辑师、MCN、营销团队 |
+| **长视频转短视频** | 把一条完整长视频拆成多条主题明确的竖屏短视频。 | YouTuber、教育创作者、活动团队 |
+| **AI 视频切片** | 自动识别重点对话、情绪高点、实用结论和转折时刻。 | 有长期视频素材库的内容团队 |
+| **播客切片** | 提取金句、观点和实用回答，同时保持主持人与嘉宾在画面中。 | 播客主理人、访谈节目 |
+| **YouTube 转 Shorts** | 将教程、访谈和深度视频转换成带字幕的 Shorts。 | YouTube 频道、知识创作者 |
+| **直播高光** | 从直播回放中整理精彩操作、反应、胜负转折和观众问答。 | 主播、游戏团队、活动团队 |
+| **直播切片** | 每场直播结束后批量整理短片，并建立持续发布节奏。 | Twitch 主播、直播运营团队 |
+| **电商直播切片** | 将商品演示、购买疑问、优惠信息和成交时刻制作成转化短视频。 | 电商卖家、直播带货团队 |
+| **知识付费课程切片** | 将课程知识点和实操方法制作成试听内容，引导用户了解完整课程。 | 课程创作者、知识付费机构 |
 
-- [AI 视频切片工具](zh/ai-clip-maker/)：适合播客、访谈和 Webinar
-- [长视频转短视频](zh/long-video-to-shorts/)：从完整录制生成短视频
-- [AI 视频切片工作流](zh/ai-video-clipping/)：字幕、开场钩子和画面重构
-- [短视频教程与案例](zh/resources/)：按业务场景学习内容再利用
+查看详细页面：[AI 视频切片工具](zh/ai-clip-maker/)、[长视频转短视频](zh/long-video-to-shorts/)、[AI 视频切片](zh/ai-video-clipping/)、[播客切片](zh/podcast-clips/)、[YouTube 转 Shorts](zh/youtube-to-shorts/)、[直播高光](zh/stream-highlights/) 和 [直播切片](zh/stream-clips/)。
 
-当前内容中心包含 20 篇围绕 AI 视频切片、长视频转短视频、播客切片、YouTube 转 Shorts、直播高光和 Stream Clips 的中文教程与场景案例。
+## AI 视频切片工作流程
+
+1. **导入长视频。** 可以从播客、访谈、课程、Webinar、电商直播、YouTube 录制或直播回放开始。
+2. **查看高潜力片段。** AI 根据对话、重点观点、情绪反应、实用答案和关键时刻推荐候选片段。
+3. **把爆点前置。** 将结果、反常识观点或观众问题放到开头，让短片脱离原视频也能在信息流中被理解。
+4. **生成字幕并重构画面。** 自动生成动态字幕，并将人物、商品或主体适配到 9:16、1:1、4:5 等画幅。
+5. **准备发布文案。** 为每条短视频生成与实际内容匹配的标题、描述和 Hashtag。
+6. **批量分发。** 审核同一条长视频生成的多条短片，并为 YouTube Shorts、TikTok、Instagram Reels、LinkedIn、Facebook 和 X 准备发布计划。
 
 ## 核心能力
 
-| 能力 | 用途 |
-| --- | --- |
-| AI 精彩片段识别 | 根据对话、关键观点与情绪变化发现候选片段，减少人工反复选片。 |
-| Viral Score | 用 0–100 分的预测评分辅助比较片段的钩子、节奏与传播潜力。 |
-| Hook 自动前置 | 将吸引人的内容放到开头，构建更清晰的短视频开场。 |
-| AI 字幕 | 自动生成动态、多语言字幕，选择合适的字幕样式。 |
-| AI Reframe | 识别人脸与主体，适配 9:16、1:1、4:5 等社媒画幅。 |
-| B-Roll 与文案 | 补充相关素材，生成标题、描述与 Hashtag 标签。 |
-| 社媒分发 | 连接剪辑与 TikTok、YouTube Shorts、Instagram Reels、LinkedIn、Facebook、X 等平台的发布流程。 |
+- **AI 精彩片段识别：** 根据对话、关键观点和情绪变化发现值得传播的片段。
+- **Viral Score：** 用评分辅助比较开场钩子、节奏和传播潜力。
+- **Hook 开场前置：** 将更有吸引力的内容提前，减少短片前几秒的流失。
+- **动态与多语言字幕：** 让观众在静音刷视频时也能理解内容。
+- **AI 智能重构画面：** 保持人物、商品、演示主体或游戏画面处于视觉重点。
+- **B-Roll 与发布文案：** 补充相关画面，生成标题、描述和标签。
+- **社媒分发：** 将剪辑准备与主要社交平台的发布流程连接起来。
 
-适合播客、访谈、课程、电商直播、体育内容、企业营销、媒体机构与 MCN 团队，尤其适合已有长视频素材库的内容团队。当前功能、支持平台与套餐以[官方网站](https://shortmind.ai/?source=shortmindai.github.io)为准。
+## 中文教程与场景案例
 
-## 使用流程
+[中文教程与案例中心](zh/resources/) 包含 20 篇围绕搜索意图编写的文章，覆盖播客、Webinar、访谈、YouTube、线上课程、知识付费、电商直播、营销团队、游戏直播、Twitch 主播和社区运营等场景。
 
-1. 在官网导入长视频素材。
-2. 查看 AI 推荐片段与评分，调整字幕、开场和画面构图。
-3. 生成适合社媒的短视频，准备发布文案与排期。
+每篇文章都围绕素材类型、用户问题、操作流程、常见错误、发布方法和下一步转化动作展开，适合作为内容团队的制作参考。
 
-## 本仓库
+## 适合哪些团队？
 
-本仓库维护 ShortMind 的静态品牌介绍站点，包含英文首页、中文页面与说明文档。视频处理产品通过官网提供服务。
+ShortMind 适合播客创作者、YouTuber、Twitch 主播、课程创作者、Webinar 团队、电商直播团队、企业营销部门、媒体机构、MCN 和内容代理公司。尤其适合持续产出长视频、希望重复利用素材并稳定更新短视频的团队。
+
+## 仓库结构
 
 ```text
-index.html            英文首页
-zh.html               中文页面
-404.html              自定义错误页面
-assets/               共享 CSS、WebP 图片、图标和社交分享图
-README.md             中文说明
-README.en.md          英文说明
-robots.txt            爬虫与 sitemap 地址
-sitemap.xml           中英文页面索引
-scripts/build_site.py 页面生成与图片压缩脚本
+index.html                         英文品牌首页
+zh.html                            中文品牌首页
+resources/                         英文教程与案例
+zh/resources/                      中文教程与案例
+assets/                            CSS、图片和社交分享素材
+scripts/build_site.py              双语首页生成脚本
+scripts/build_article_library.py   SEO 文章与资源中心生成脚本
+sitemap.xml                        搜索引擎 URL 索引
+robots.txt                         爬虫规则
+README.md                          中文 SEO 文档
+README.en.md                       英文 SEO 文档
 ```
 
-## 本地预览与维护
-
-站点无需 Node.js、构建框架或客户端 JavaScript。运行以下命令后访问 `http://localhost:8000`：
+## 本地预览与重新生成
 
 ```bash
 python -m http.server 8000
 ```
 
-修改 `scripts/build_site.py` 中的双语文案后重新生成页面。脚本需要 Python 3.9+ 与 Pillow（`python -m pip install Pillow`）：
+然后访问 `http://localhost:8000/`。重新生成双语 SEO 文章和 sitemap：
 
 ```bash
-python scripts/build_site.py --pages-only
+python scripts/build_article_library.py
+python scripts/repair_rich_zh_articles.py
 ```
 
-重新压缩图片时，传入包含原始 PNG 与「shortmind宣传物料-中英文」子目录的物料路径：
+静态站点使用 UTF-8 HTML、canonical、双向 `hreflang`、Open Graph、Article 结构化数据和 sitemap，帮助搜索引擎发现中文与英文页面。
 
-```bash
-python scripts/build_site.py --materials "你的品牌物料目录"
-```
+## 官方产品
 
-## GitHub Pages 部署
-
-账号主页 `https://shortmindai.github.io/` 对应的仓库必须命名为 `shortmindai.github.io`。将本站文件放在该仓库根目录，在 **Settings → Pages** 选择 **Deploy from a branch → main → / (root)**，保存后等待部署成功。`.nojekyll` 用于直接发布静态文件。
-
-当前 Git remote 指向 `ShortMindAI/shortmindai.github.io`，与账号主页地址一致。部署到其他地址时，要同步调整脚本中的 `BASE`、`robots.txt`、`sitemap.xml` 及 `404.html` 的根路径，使链接与 canonical 符合实际网址。
-
-## SEO 与加载优化
-
-- 页面正文直接包含在 HTML 中，使用语义化标题、导航与 FAQ。
-- 中英文页面分别提供标题、描述、canonical 和互相对应的 `hreflang`。
-- 包含 Organization、WebPage、FAQPage JSON-LD，以及 Open Graph / Twitter 分享信息。结构化数据不保证搜索结果展示形式。
-- 图片采用压缩 WebP 与响应式 `srcset`；首屏图片高优先级，后续截图延迟加载，显式声明尺寸以减少布局跳动。
-- 社交分享图使用 JPEG 兼容预览服务；采用系统字体，无第三方脚本或前端运行时。
-
-ShortMind — 让已有内容，拥有新的生命力。
+本仓库维护静态品牌站点和 SEO 文档。产品功能、支持平台、套餐和账户入口请访问 [shortmind.ai](https://shortmind.ai/?source=shortmindai.github.io)。
