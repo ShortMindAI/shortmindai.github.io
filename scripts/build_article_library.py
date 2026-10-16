@@ -103,7 +103,23 @@ def main():
         html = f'''<!doctype html><html lang="{'en' if lang == 'en' else 'zh-CN'}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{title} | ShortMind</title><meta name="description" content="{desc}"><link rel="canonical" href="{canonical}"><link rel="stylesheet" href="{prefix}site.css"></head><body class="seo-page"><header class="header"><div class="container nav"><a class="brand" href="{home}"><img src="{prefix}brand-mark.webp" width="32" height="32" alt=""><span>ShortMind</span></a>{nav}<nav class="nav-actions">{language_links}<a class="button primary small" href="{CTA}">{'Visit website ↗' if lang == 'en' else '访问官网 ↗'}</a></nav></div></header><main class="container seo-main"><p class="breadcrumb"><a href="{home}">ShortMind</a> / {title}</p><section class="seo-hero"><p class="eyebrow">ShortMind Resources</p><h1>{title}</h1><p class="seo-lead">{desc}</p></section><section class="resource-grid">{cards}</section></main>{footer}</body></html>'''
         (folder/'index.html').write_text(html, encoding='utf-8')
     urls = [''] + [f'{d[0]}/' for d in ARTICLES] + [f'zh/{d[0]}/' for d in ARTICLES] + ['resources/', 'zh/resources/']
-    xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'] + [f'  <url><loc>{BASE}{u}</loc></url>' for u in urls] + ['</urlset>']
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
+    for u in urls:
+        loc = BASE + u
+        zh_loc = BASE + ('zh/' + u if u and not u.startswith('zh/') else u)
+        en_loc = BASE + (u[3:] if u.startswith('zh/') else u)
+        xml.extend([
+            '  <url>',
+            f'    <loc>{loc}</loc>',
+            f'    <xhtml:link rel="alternate" hreflang="en" href="{en_loc}" />',
+            f'    <xhtml:link rel="alternate" hreflang="zh-CN" href="{zh_loc}" />',
+            f'    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}" />',
+            '    <lastmod>2026-10-16</lastmod>',
+            '    <changefreq>weekly</changefreq>',
+            f'    <priority>{"1.0" if not u else ("0.86" if "resources/" in u else "0.75")}</priority>',
+            '  </url>',
+        ])
+    xml.append('</urlset>')
     (ROOT/'sitemap.xml').write_text('\n'.join(xml)+'\n', encoding='utf-8')
 
 if __name__ == '__main__':

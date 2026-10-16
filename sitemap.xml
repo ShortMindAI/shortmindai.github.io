@@ -1,46 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://shortmindai.github.io/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-clip-maker-for-podcasts/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-clip-maker-for-webinars/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-clip-maker-for-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/long-video-to-shorts-for-youtube/</loc></url>
-  <url><loc>https://shortmindai.github.io/long-video-to-shorts-for-courses/</loc></url>
-  <url><loc>https://shortmindai.github.io/long-video-to-shorts-for-webinars/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-video-clipping-for-marketing/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-video-clipping-with-captions/</loc></url>
-  <url><loc>https://shortmindai.github.io/ai-video-clipping-for-ecommerce/</loc></url>
-  <url><loc>https://shortmindai.github.io/podcast-clips-that-build-audience/</loc></url>
-  <url><loc>https://shortmindai.github.io/podcast-clips-for-guest-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/podcast-clips-with-dynamic-captions/</loc></url>
-  <url><loc>https://shortmindai.github.io/youtube-to-shorts-from-tutorials/</loc></url>
-  <url><loc>https://shortmindai.github.io/youtube-to-shorts-from-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/stream-highlights-for-gaming/</loc></url>
-  <url><loc>https://shortmindai.github.io/long-video-to-shorts-for-paid-courses/</loc></url>
-  <url><loc>https://shortmindai.github.io/stream-highlights-for-live-events/</loc></url>
-  <url><loc>https://shortmindai.github.io/stream-clips-for-consistent-posting/</loc></url>
-  <url><loc>https://shortmindai.github.io/stream-clips-for-twitch-creators/</loc></url>
-  <url><loc>https://shortmindai.github.io/stream-clips-for-community-growth/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-clip-maker-for-podcasts/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-clip-maker-for-webinars/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-clip-maker-for-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-youtube/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-courses/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-webinars/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-video-clipping-for-marketing/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-video-clipping-with-captions/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/ai-video-clipping-for-ecommerce/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/podcast-clips-that-build-audience/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/podcast-clips-for-guest-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/podcast-clips-with-dynamic-captions/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/youtube-to-shorts-from-tutorials/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/youtube-to-shorts-from-interviews/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/stream-highlights-for-gaming/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-paid-courses/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/stream-highlights-for-live-events/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/stream-clips-for-consistent-posting/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/stream-clips-for-twitch-creators/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/stream-clips-for-community-growth/</loc></url>
-  <url><loc>https://shortmindai.github.io/resources/</loc></url>
-  <url><loc>https://shortmindai.github.io/zh/resources/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://shortmindai.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-clip-maker-for-podcasts/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-podcasts/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-podcasts/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-clip-maker-for-webinars/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-clip-maker-for-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/long-video-to-shorts-for-youtube/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-youtube/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-youtube/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/long-video-to-shorts-for-courses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-courses/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-courses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/long-video-to-shorts-for-webinars/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-video-clipping-for-marketing/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-for-marketing/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-for-marketing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-video-clipping-with-captions/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-with-captions/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-with-captions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/ai-video-clipping-for-ecommerce/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-for-ecommerce/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-for-ecommerce/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/podcast-clips-that-build-audience/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-that-build-audience/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-that-build-audience/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/podcast-clips-for-guest-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-for-guest-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-for-guest-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/podcast-clips-with-dynamic-captions/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-with-dynamic-captions/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-with-dynamic-captions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/youtube-to-shorts-from-tutorials/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/youtube-to-shorts-from-tutorials/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/youtube-to-shorts-from-tutorials/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/youtube-to-shorts-from-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/youtube-to-shorts-from-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/youtube-to-shorts-from-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/stream-highlights-for-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-highlights-for-gaming/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-highlights-for-gaming/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/long-video-to-shorts-for-paid-courses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-paid-courses/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-paid-courses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/stream-highlights-for-live-events/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-highlights-for-live-events/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-highlights-for-live-events/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/stream-clips-for-consistent-posting/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-consistent-posting/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-consistent-posting/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/stream-clips-for-twitch-creators/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-twitch-creators/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-twitch-creators/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/stream-clips-for-community-growth/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-community-growth/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-community-growth/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-clip-maker-for-podcasts/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-podcasts/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-podcasts/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-clip-maker-for-webinars/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-clip-maker-for-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-clip-maker-for-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-clip-maker-for-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-youtube/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-youtube/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-youtube/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-courses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-courses/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-courses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-webinars/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-webinars/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-video-clipping-for-marketing/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-for-marketing/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-for-marketing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-video-clipping-with-captions/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-with-captions/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-with-captions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/ai-video-clipping-for-ecommerce/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/ai-video-clipping-for-ecommerce/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/ai-video-clipping-for-ecommerce/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/podcast-clips-that-build-audience/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-that-build-audience/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-that-build-audience/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/podcast-clips-for-guest-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-for-guest-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-for-guest-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/podcast-clips-with-dynamic-captions/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/podcast-clips-with-dynamic-captions/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/podcast-clips-with-dynamic-captions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/youtube-to-shorts-from-tutorials/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/youtube-to-shorts-from-tutorials/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/youtube-to-shorts-from-tutorials/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/youtube-to-shorts-from-interviews/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/youtube-to-shorts-from-interviews/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/youtube-to-shorts-from-interviews/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/stream-highlights-for-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-highlights-for-gaming/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-highlights-for-gaming/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/long-video-to-shorts-for-paid-courses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/long-video-to-shorts-for-paid-courses/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/long-video-to-shorts-for-paid-courses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/stream-highlights-for-live-events/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-highlights-for-live-events/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-highlights-for-live-events/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/stream-clips-for-consistent-posting/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-consistent-posting/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-consistent-posting/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/stream-clips-for-twitch-creators/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-twitch-creators/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-twitch-creators/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/stream-clips-for-community-growth/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/stream-clips-for-community-growth/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/stream-clips-for-community-growth/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/resources/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/resources/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/resources/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://shortmindai.github.io/zh/resources/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://shortmindai.github.io/resources/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://shortmindai.github.io/zh/resources/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shortmindai.github.io/" />
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
 </urlset>
