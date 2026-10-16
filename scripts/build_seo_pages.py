@@ -8,36 +8,7 @@ BASE = "https://shortmindai.github.io/"
 CTA = "https://shortmind.ai/?source=shortmindai.github.io"
 ASSET_PREFIX = "../../assets/"
 
-PAGES = {
-    "ai-clip-maker": {
-        "en": ("AI Clip Maker for Podcasts, Streams and Long Videos | ShortMind", "ShortMind is an AI clip maker that finds strong moments, adds captions and reframes long videos into social-ready clips.", "AI clip maker for social-ready videos", "Turn long videos into ready-to-publish clips", "Upload a podcast, webinar, interview or stream. ShortMind finds the moments worth sharing, creates captions and prepares vertical clips for Shorts, TikTok and Reels.", ["Find hooks and highlights from long recordings", "Generate dynamic captions and social copy", "Reframe faces and speakers for 9:16 video"]),
-        "zh": ("AI 视频切片工具：长视频自动生成短视频｜ShortMind", "ShortMind AI 视频切片工具可从播客、直播、访谈和课程中识别精彩片段，生成字幕并适配短视频平台。", "AI 视频切片工具", "把长视频剪成可以直接发布的短视频", "上传播客、访谈、课程或直播回放，ShortMind 自动识别值得传播的片段，生成字幕、竖屏画面和发布文案。", ["从长录制中提取高光和开场钩子", "自动生成动态字幕与社媒文案", "将人物和主体重构为 9:16 竖屏"]),
-    },
-    "long-video-to-shorts": {
-        "en": ("Long Video to Shorts Converter | ShortMind", "Convert long videos to Shorts with AI. ShortMind finds highlights, adds captions and creates vertical clips for YouTube Shorts, TikTok and Reels.", "Long video to Shorts", "Turn one long video into a library of short videos", "Repurpose a full podcast, interview, course or livestream into focused clips. Review AI-selected moments, refine the hook and publish platform-ready Shorts.", ["Import a long-form recording", "Review scored moments and edit the opening", "Export captioned 9:16 clips for social platforms"]),
-        "zh": ("长视频转短视频：AI 自动生成 Shorts｜ShortMind", "用 ShortMind 将长视频转换成短视频，自动识别精彩片段、生成字幕，并输出适合 YouTube Shorts、TikTok 和 Reels 的竖屏内容。", "长视频转短视频", "一条长视频，拆成一组可持续发布的短视频", "把完整播客、访谈、课程或直播回放拆成主题清晰的短片，查看 AI 推荐片段，调整开场后直接准备发布。", ["导入长视频素材", "查看评分并调整开场钩子", "导出带字幕的 9:16 短视频"]),
-    },
-    "ai-video-clipping": {
-        "en": ("AI Video Clipping for Fast Content Repurposing | ShortMind", "AI video clipping for creators and teams. Detect highlights, create captions, reframe speakers and prepare social posts from long-form video.", "AI video clipping", "Find the best moments without watching the same recording again", "ShortMind combines highlight detection, captions, reframing and publishing copy so your team can turn long-form video into a repeatable content workflow.", ["Detect meaningful dialogue and emotional moments", "Compare clips with an estimated Viral Score", "Prepare captions, titles, descriptions and hashtags"]),
-        "zh": ("AI 视频切片：自动识别高光并生成短视频｜ShortMind", "ShortMind AI 视频切片可从长视频中识别重点内容，自动生成字幕、重构画面，并准备适合社媒发布的文案。", "AI 视频切片", "不用反复观看长录制，也能找到值得传播的瞬间", "ShortMind 将高光识别、字幕、画面重构和发布文案连接成一套可重复使用的内容工作流。", ["识别重点对话和情绪高点", "使用 Viral Score 对候选片段排序", "生成字幕、标题、描述和标签"]),
-    },
-    "podcast-clips": {
-        "en": ("Podcast Clips Maker: Turn Episodes into Short Videos | ShortMind", "Create podcast clips with AI. Find memorable quotes, add captions and keep hosts and guests in frame for Shorts, TikTok and Reels.", "Podcast clips maker", "Give every podcast episode more chances to be discovered", "ShortMind scans each episode for memorable quotes, strong opinions and useful takeaways, then turns them into captioned vertical clips for social discovery.", ["Find quotable moments in every episode", "Keep hosts and guests in frame with AI reframe", "Create several hook variations for testing"]),
-        "zh": ("播客切片工具：把每期播客变成短视频｜ShortMind", "用 ShortMind 自动制作 podcast clips，提取金句和观点，生成字幕并保持主持人与嘉宾在画面中。", "播客切片工具", "让每一期播客拥有更多被发现的机会", "ShortMind 从每期节目中找到金句、鲜明观点和实用结论，生成适合 Shorts、TikTok 和 Reels 的竖屏短片。", ["提取每期播客中的高传播片段", "自动保持主持人与嘉宾在画面内", "生成多个开场钩子用于测试"]),
-    },
-    "youtube-to-shorts": {
-        "en": ("YouTube to Shorts: Repurpose Long Videos with AI | ShortMind", "Turn YouTube videos into Shorts with AI. ShortMind finds key moments, adds captions and formats clips for vertical social video.", "YouTube to Shorts", "Repurpose your YouTube library into vertical clips", "Start with an existing long-form YouTube video, identify the most useful sections and create captioned Shorts without rebuilding the edit from scratch.", ["Reuse interviews, tutorials and video essays", "Turn chapters and key answers into clips", "Prepare titles and descriptions for Shorts"]),
-        "zh": ("YouTube 转 Shorts：长视频批量生成竖屏短片｜ShortMind", "用 ShortMind 将 YouTube 长视频转换成 Shorts，自动提取重点、生成字幕并适配竖屏社媒格式。", "YouTube 转 Shorts", "把 YouTube 内容库重新变成竖屏短视频", "从已有的访谈、教程或视频文章开始，提取关键章节和回答，快速制作带字幕的 Shorts。", ["复用访谈、教程和深度视频", "把章节和关键回答转成短片", "准备 Shorts 标题与描述"]),
-    },
-    "stream-highlights": {
-        "en": ("Stream Highlights Generator for Fast, Shareable Clips | ShortMind", "Create stream highlights with AI. Find reactions, plays and turning points in livestream recordings and publish vertical clips while the conversation is active.", "Stream highlights", "Turn a livestream replay into the moments fans remember", "ShortMind helps streamers and media teams recover the best moments from long replays: reactions, wins, fails, answers and turning points.", ["Locate high-energy moments in long streams", "Collect highlights in one review queue", "Reframe gameplay and reactions for vertical feeds"]),
-        "zh": ("直播高光提取：自动生成 stream highlights｜ShortMind", "用 ShortMind 从直播回放中提取 stream highlights，识别精彩操作、反应和转折，并生成适合竖屏发布的短片。", "直播高光提取", "把一场直播回放变成粉丝愿意分享的高光片段", "ShortMind 帮助主播和内容团队从长回放中找出精彩操作、胜负转折、观众问答和高能反应。", ["定位长直播中的高能时刻", "在同一列表中整理高光片段", "将游戏画面和反应重构为竖屏"]),
-    },
-    "stream-clips": {
-        "en": ("Stream Clips Maker for Streamers and Gaming Teams | ShortMind", "Make stream clips from long livestreams with AI. Extract gameplay, reactions and chat-worthy moments for TikTok, Shorts and Reels.", "Stream clips maker", "Create more stream clips from every broadcast", "Stop scrubbing through every replay. ShortMind surfaces gameplay, reactions and chat-worthy moments so you can publish consistently after each broadcast.", ["Find clips across a full broadcast", "Add readable captions for mobile viewers", "Export multiple aspect ratios for social channels"]),
-        "zh": ("Stream Clips 制作工具：从直播回放批量提取短片｜ShortMind", "ShortMind 可从长直播回放中批量制作 stream clips，提取游戏操作、反应和弹幕讨论点，适配 Shorts、TikTok 和 Reels。", "Stream Clips 制作工具", "每场直播结束后，快速产出更多可发布短片", "无需反复拖动回放寻找片段，ShortMind 会整理游戏操作、反应和观众讨论点，帮助你稳定更新。", ["覆盖整场直播寻找精彩片段", "为移动端观众添加清晰字幕", "输出多种社媒画幅"]),
-    },
-}
+PAGES = {}
 
 ARTICLES = {
     "how-to-turn-long-video-into-shorts": ("How to Turn a Long Video into Shorts", "A practical workflow for turning podcasts, interviews, webinars and livestreams into focused vertical clips.", ["Choose a source with clear chapters or recurring topics.", "Use AI highlight detection to shortlist moments with a complete idea.", "Rewrite the first seconds as a direct hook, then add readable captions.", "Reframe the speaker or subject for 9:16 and export versions for each platform."]),
